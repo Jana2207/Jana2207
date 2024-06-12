@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hello! I’m Janardhan Reddy Illuru, a passionate and dedicated data scientist with a background in Computer Science. I am enthusiastic about leveraging data to solve real-world problems and drive informed decision-making. 
+Hello! I’m Janardhan Reddy Illuru, a passionate and dedicated data scientist. I am enthusiastic about leveraging data to solve real-world problems and drive informed decision-making. 
 
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning.
 - 💡 I love exploring new data sets and uncovering insights through data analysis and visualization.
