@@ -22,20 +22,48 @@ Hello! I’m Janardhan Reddy Illuru, a passionate and dedicated data scientist. 
 - **Tools & Technologies**: Jupyter Notebook, Git, Power BI, Excel
 
 ## 📈 Projects
-### [Flight Fare Prediction and Analysis](https://github.com/Jana2207/Flight_Fare_Prediction_and_Analysis)
-This project focuses on predicting air ticket prices for domestic flights within India using machine learning techniques. The model is designed to analyze various factors that influence ticket pricing, such as airline, route, departure time, and more, enabling both airlines and passengers to make data-driven decisions.
-### [Car Insurance Claim Prediction](https://github.com/Jana2207/Car_insurance_claim_prediction)
-This project focuses on predicting whether a customer will calim or not claim the car insurance using machine learning techniques. The model is designed to analyze various factors that influence claiming car insurance, such as model, safety features, engine type, and more.
-### [Credit Card Financial Dashboard using PowerBI](https://github.com/Jana2207/Credit-Card-Weekly-Financial-Dashboard-PowerBI)
-Developed a comprehensive dashboard using Power BI to provide real-time insights into key performance metrics and trends. 
-### [Sales and Customer Dashboard using Tableau](https://github.com/Jana2207/Sales-and-Customer-Dashboard)
-Developed a comprehensive dashboard using Tableau to provide real-time insights into key performance metrics and trends. 
-### [Market Size Analysis of EV Vehicles](https://github.com/Jana2207/Market-SIze-Analysis-of-EV-Vehicles)
-This project focuses on conducting a comprehensive market size analysis of the electric vehicle (EV) industry, forecasting growth and trends over the next 5 years.
-### [Library Management System Using SQL](https://github.com/Jana2207/Library_management_system_SQL)
-Built and organized tables for branches, employees, members, and books, ensuring data accuracy with relationships and constraints, while efficiently managing records, generating reports on book issues and rental income, and developing procedures for book returns and fines to enhance system performance and reporting capabilities.
-### [Varshini Edtech Analysis Using Excel](https://github.com/Jana2207/Varshini_Edtech_Analysis_Excel)
-Utilized pivot tables, slicers, and charts to track user engagement, platform usage, and content effectiveness, providing real-time insights into key performance indicators, while streamlining data integration and trend analysis to enhance reporting efficiency and support data-driven decisions.
+### ✈️💡 [Flight Fare Prediction and Analysis](https://github.com/Jana2207/Flight_Fare_Prediction_and_Analysis)
+This project focuses on predicting air ticket prices for domestic flights within India using machine learning techniques. The model analyzes various factors influencing ticket pricing, such as airline, route, and departure time, enabling both airlines and passengers to make data-driven decisions. ✈️📊
+
+---
+
+### 🚗🔍 [Car Insurance Claim Prediction](https://github.com/Jana2207/Car_insurance_claim_prediction)
+This project predicts whether a customer will claim or not claim car insurance using machine learning techniques. The model evaluates factors like vehicle model, safety features, engine type, and more to assist in better risk assessment. 🚘🛡️
+
+---
+
+### 💳📊 [Credit Card Financial Dashboard using PowerBI](https://github.com/Jana2207/Credit-Card-Weekly-Financial-Dashboard-PowerBI)
+Developed a comprehensive dashboard using Power BI to provide real-time insights into key performance metrics and trends for credit card data. 💼💹
+
+---
+
+### 🛍️📈 [Sales and Customer Dashboard using Tableau](https://github.com/Jana2207/Sales-and-Customer-Dashboard)
+Created a dynamic dashboard using Tableau that provides real-time insights into key performance metrics for sales and customer trends, helping to drive business decisions. 🏪📊
+
+---
+
+### 🚙🔋 [Market Size Analysis of EV Vehicles](https://github.com/Jana2207/Market-SIze-Analysis-of-EV-Vehicles)
+Conducted a comprehensive market size analysis of the electric vehicle (EV) industry, forecasting growth and trends over the next 5 years, providing insights into the expanding EV market. 🌍📉
+
+---
+
+### 📚🔧 [Library Management System Using SQL](https://github.com/Jana2207/Library_management_system_SQL)
+Built and organized tables for branches, employees, members, and books, ensuring data accuracy with relationships and constraints. Managed records, generated reports on book issues and rental income, and developed procedures for book returns and fines, improving system performance and reporting capabilities. 📊🔐
+
+---
+
+### 📊📉 [Varshini Edtech Analysis Using Excel](https://github.com/Jana2207/Varshini_Edtech_Analysis_Excel)
+Utilized pivot tables, slicers, and charts to track user engagement, platform usage, and content effectiveness. Provided real-time insights into key performance indicators, streamlined data integration, and enhanced reporting efficiency to support data-driven decisions. 🎓📈
+
+---
+
+### 🔍🌐 [Google Trend Analysis using PowerBI](https://github.com/Jana2207/Google-Trend-Analysis-using-PowerBI)
+This project leverages Power BI to import data from Google Trends via the SerpAPI. It allows users to track, analyze, and visualize the performance of up to five keywords over time and across regions. The interactive dashboard offers insights into trends and regional interests, guiding decision-making in marketing, content creation, and SEO optimization. 📊🔑
+
+---
+
+### 🎥📊 [YouTube Data Collection and Analysis](https://github.com/Jana2207/YouTube_Data_Collection_and_Analysis/tree/main)
+This project analyzes various aspects of YouTube channels and video content, such as likes, dislikes, views, and comments. It also examines the effect of factors like video length, publishing day, and video category on performance metrics. The data is collected via the YouTube Data API v3. 🔍📈
 
 ## 📚 Education
 
